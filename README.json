@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "description": "请见贡献指南!",
+      "items": [],
+      "title": "How to Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:01.698Z",
+    "original_repository": "dyweb/awesome-resume-for-chinese",
+    "original_repository_sha": "fefc06e7dd667ff78bf7c5cccad715efddaef15f",
+    "enhanced_repository": "enhansome/enhansome-resume-for-chinese",
+    "enhanced_repository_description": null,
+    "title": "Awesome Resume for Chinese with stars"
+  }
+}
