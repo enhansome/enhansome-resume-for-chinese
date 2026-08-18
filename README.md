@@ -21,13 +21,13 @@
 	<img src="https://raw.githubusercontent.com/geekplux/cv_resume/master/template_cn_blue.png" width="350">
 </div>
 
-* [billryan/resume](https://github.com/billryan/resume) ⭐ 11,334 | 🐛 50 | 🌐 TeX | 📅 2024-03-15 An elegant \LaTeX\ résumé template, by [@billryan](https://github.com/billryan)
+* [billryan/resume](https://github.com/billryan/resume) ⭐ 11,337 | 🐛 50 | 🌐 TeX | 📅 2024-03-15 An elegant \LaTeX\ résumé template, by [@billryan](https://github.com/billryan)
 
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/1292567/62409353-3fecfc00-b608-11e9-8e83-84962912c956.png" width="350">
 </div>
 
-* [hijiangtao/resume](https://github.com/hijiangtao/resume) ⭐ 3,499 | 🐛 3 | 🌐 TeX | 📅 2024-09-04 一个优雅的 \LaTeX\ 中文简历模板，改良自[billryan/resume](https://github.com/billryan/resume) ⭐ 11,334 | 🐛 50 | 🌐 TeX | 📅 2024-03-15 by [@hijiangtao](https://github.com/hijiangtao)
+* [hijiangtao/resume](https://github.com/hijiangtao/resume) ⭐ 3,501 | 🐛 3 | 🌐 TeX | 📅 2024-09-04 一个优雅的 \LaTeX\ 中文简历模板，改良自[billryan/resume](https://github.com/billryan/resume) ⭐ 11,337 | 🐛 50 | 🌐 TeX | 📅 2024-03-15 by [@hijiangtao](https://github.com/hijiangtao)
 
 <div align="center">
 	<img src="https://i.postimg.cc/7hYTR1MT/hijiangtao.png" width="350">
@@ -51,7 +51,7 @@
 	<img src="https://i.postimg.cc/mgmWW894/mszep.png" width="350">
 </div>
 
-* [luooofan/resume](https://github.com/luooofan/resume) ⭐ 193 | 🐛 1 | 🌐 TeX | 📅 2024-09-22 一个优雅的 \LaTeX\ 中文简历模板，改良自 [billryan/resume](https://github.com/billryan/resume) ⭐ 11,334 | 🐛 50 | 🌐 TeX | 📅 2024-03-15 by [@luooofan](https://github.com/luooofan)
+* [luooofan/resume](https://github.com/luooofan/resume) ⭐ 194 | 🐛 1 | 🌐 TeX | 📅 2024-09-22 一个优雅的 \LaTeX\ 中文简历模板，改良自 [billryan/resume](https://github.com/billryan/resume) ⭐ 11,337 | 🐛 50 | 🌐 TeX | 📅 2024-03-15 by [@luooofan](https://github.com/luooofan)
 
 <div align="center">
 	<img src="https://github.com/luooofan/resume/blob/zh_CN/images/resume_example.jpg?raw=true">
@@ -85,7 +85,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/zBcfDqRJ/newfuture.png" width="450">
 </div>
 
-* [Ovilia/cv](https://github.com/Ovilia/cv) ⭐ 631 | 🐛 2 | 🌐 HTML | 📅 2021-08-25 Wenli Zhang's CV as Web Front-End Engineer, by [@Ovilia](https://github.com/Ovilia)
+* [Ovilia/cv](https://github.com/Ovilia/cv) ⭐ 630 | 🐛 2 | 🌐 HTML | 📅 2021-08-25 Wenli Zhang's CV as Web Front-End Engineer, by [@Ovilia](https://github.com/Ovilia)
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/Ovilia/cv/gh-pages/img/cv.png" width="350">
@@ -127,7 +127,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/t4cZCtQ0/jekyll.png" width="450">
 </div>
 
-* [guanpengchn/markdown-resume](https://github.com/guanpengchn/markdown-resume) ⭐ 1,969 | 🐛 54 | 🌐 JavaScript | 📅 2023-07-13 支持markdown和富文本的在线简历排版工具 by [@guanpengchn](https://github.com/guanpengchn)
+* [guanpengchn/markdown-resume](https://github.com/guanpengchn/markdown-resume) ⭐ 1,968 | 🐛 54 | 🌐 JavaScript | 📅 2023-07-13 支持markdown和富文本的在线简历排版工具 by [@guanpengchn](https://github.com/guanpengchn)
 
 <div align="center">
 	<img src="https://i.postimg.cc/0QTh84Z6/xiaojizhi.png" width="450">
@@ -139,7 +139,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/8zxRnVCr/Lxxyx.png" width="450"> 
 </div>
 
-* [mcc108/resume](https://github.com/mcc108/resume) ⭐ 242 | 🐛 1 | 🌐 HTML | 📅 2026-08-02 前端开发工程师简历模板 by [@mcc108](https://github.com/mcc108)
+* [mcc108/resume](https://github.com/mcc108/resume) ⭐ 241 | 🐛 1 | 🌐 HTML | 📅 2026-08-02 前端开发工程师简历模板 by [@mcc108](https://github.com/mcc108)
 
 <div align="center"> 
 	<img src="https://i.postimg.cc/gJs6d9Gs/mcc108.jpg" width="450"> 
@@ -175,7 +175,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/bJz6YhfF/jugal.png" width="350">
 </div>
 
-* [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) ⭐ 16,464 | 🐛 57 | 🌐 Vue | 📅 2024-06-11 适用于多个行业的简历模板选择器 by [@salomonelli](https://github.com/salomonelli)
+* [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) ⭐ 16,465 | 🐛 57 | 🌐 Vue | 📅 2024-06-11 适用于多个行业的简历模板选择器 by [@salomonelli](https://github.com/salomonelli)
 
 <div align="center"> 
 	<img src="https://i.postimg.cc/qRxZT7tF/salomonelli.png"> 
@@ -188,7 +188,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/W4XkcLNn/nzbin2.png" width="350">
 </div>
 
-* [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) ⭐ 3,408 | 🐛 10 | 🌐 HTML | 📅 2019-10-30 ⭐️ Markdown 简历模版, by [@CyC2018](https://github.com/CyC2018)
+* [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) ⭐ 3,410 | 🐛 10 | 🌐 HTML | 📅 2019-10-30 ⭐️ Markdown 简历模版, by [@CyC2018](https://github.com/CyC2018)
 
 <div align="center">
 	<img src="https://i.postimg.cc/fb9hQf4q/Resume.png" width="350">
@@ -205,4 +205,4 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
