@@ -21,13 +21,13 @@
 	<img src="https://raw.githubusercontent.com/geekplux/cv_resume/master/template_cn_blue.png" width="350">
 </div>
 
-* [billryan/resume](https://github.com/billryan/resume) ⭐ 11,340 | 🐛 50 | 🌐 TeX | 📅 2024-03-15 An elegant \LaTeX\ résumé template, by [@billryan](https://github.com/billryan)
+* [billryan/resume](https://github.com/billryan/resume) ⭐ 11,340 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 An elegant \LaTeX\ résumé template, by [@billryan](https://github.com/billryan)
 
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/1292567/62409353-3fecfc00-b608-11e9-8e83-84962912c956.png" width="350">
 </div>
 
-* [hijiangtao/resume](https://github.com/hijiangtao/resume) ⭐ 3,511 | 🐛 3 | 🌐 TeX | 📅 2024-09-04 一个优雅的 \LaTeX\ 中文简历模板，改良自[billryan/resume](https://github.com/billryan/resume) ⭐ 11,340 | 🐛 50 | 🌐 TeX | 📅 2024-03-15 by [@hijiangtao](https://github.com/hijiangtao)
+* [hijiangtao/resume](https://github.com/hijiangtao/resume) ⭐ 3,514 | 🐛 3 | 🌐 TeX | 📅 2024-09-04 一个优雅的 \LaTeX\ 中文简历模板，改良自[billryan/resume](https://github.com/billryan/resume) ⭐ 11,340 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 by [@hijiangtao](https://github.com/hijiangtao)
 
 <div align="center">
 	<img src="https://i.postimg.cc/7hYTR1MT/hijiangtao.png" width="350">
@@ -51,7 +51,7 @@
 	<img src="https://i.postimg.cc/mgmWW894/mszep.png" width="350">
 </div>
 
-* [luooofan/resume](https://github.com/luooofan/resume) ⭐ 194 | 🐛 1 | 🌐 TeX | 📅 2024-09-22 一个优雅的 \LaTeX\ 中文简历模板，改良自 [billryan/resume](https://github.com/billryan/resume) ⭐ 11,340 | 🐛 50 | 🌐 TeX | 📅 2024-03-15 by [@luooofan](https://github.com/luooofan)
+* [luooofan/resume](https://github.com/luooofan/resume) ⭐ 194 | 🐛 1 | 🌐 TeX | 📅 2024-09-22 一个优雅的 \LaTeX\ 中文简历模板，改良自 [billryan/resume](https://github.com/billryan/resume) ⭐ 11,340 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 by [@luooofan](https://github.com/luooofan)
 
 <div align="center">
 	<img src="https://github.com/luooofan/resume/blob/zh_CN/images/resume_example.jpg?raw=true">
@@ -63,7 +63,7 @@
 	<img src="https://github.com/Horldsence/resume_template/raw/main/image/image.jpg?raw=true">
 </div>
 
-* [kodyyu1126/Chinese-resume-template-work](https://github.com/kodyyu1126/Chinese-resume-template-work) ⭐ 18 | 🐛 0 | 🌐 TeX | 📅 2026-07-23 中文求职简历 LaTeX 模板，适合展示教育背景、实习经历、项目经历、校园经历与荣誉技能，使用 XeLaTeX 编译 by [@kodyyu1126](https://github.com/kodyyu1126)
+* [kodyyu1126/Chinese-resume-template-work](https://github.com/kodyyu1126/Chinese-resume-template-work) ⭐ 19 | 🐛 0 | 🌐 TeX | 📅 2026-07-23 中文求职简历 LaTeX 模板，适合展示教育背景、实习经历、项目经历、校园经历与荣誉技能，使用 XeLaTeX 编译 by [@kodyyu1126](https://github.com/kodyyu1126)
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/kodyyu1126/Chinese-resume-template-work/main/assets/resume-preview.png" width="350">
@@ -85,7 +85,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/zBcfDqRJ/newfuture.png" width="450">
 </div>
 
-* [Ovilia/cv](https://github.com/Ovilia/cv) ⭐ 630 | 🐛 2 | 🌐 HTML | 📅 2021-08-25 Wenli Zhang's CV as Web Front-End Engineer, by [@Ovilia](https://github.com/Ovilia)
+* [Ovilia/cv](https://github.com/Ovilia/cv) ⭐ 631 | 🐛 2 | 🌐 HTML | 📅 2021-08-25 Wenli Zhang's CV as Web Front-End Engineer, by [@Ovilia](https://github.com/Ovilia)
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/Ovilia/cv/gh-pages/img/cv.png" width="350">
@@ -188,7 +188,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/W4XkcLNn/nzbin2.png" width="350">
 </div>
 
-* [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) ⭐ 3,416 | 🐛 10 | 🌐 HTML | 📅 2019-10-30 ⭐️ Markdown 简历模版, by [@CyC2018](https://github.com/CyC2018)
+* [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) ⭐ 3,417 | 🐛 10 | 🌐 HTML | 📅 2019-10-30 ⭐️ Markdown 简历模版, by [@CyC2018](https://github.com/CyC2018)
 
 <div align="center">
 	<img src="https://i.postimg.cc/fb9hQf4q/Resume.png" width="350">
@@ -205,4 +205,4 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
