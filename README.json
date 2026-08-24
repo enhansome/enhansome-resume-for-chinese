@@ -1,7 +1,410 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dyweb/Deedy-Resume-for-Chinese",
+          "description": "适合应届毕业生的 LaTeX 简历模板，by @dyweb",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105121619,
+            "language": "TeX",
+            "last_commit": "2017-10-07T09:07:46Z",
+            "owner": "dyweb",
+            "repo": "Deedy-Resume-for-Chinese",
+            "stars": 569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cv_resume",
+          "description": "中文简历 Latex 模板。基于 ModernCV 模板，进行了中文字体支持和优化，by @geekplux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115707624,
+            "language": "TeX",
+            "last_commit": "2025-12-11T03:38:20Z",
+            "owner": "geekplux",
+            "repo": "cv_resume",
+            "stars": 536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "billryan/resume",
+          "description": "An elegant \\LaTeX\\ résumé template, by @billryan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36554772,
+            "language": "TeX",
+            "last_commit": "2024-03-15T08:48:48Z",
+            "owner": "billryan",
+            "repo": "resume",
+            "stars": 11357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hijiangtao/resume",
+          "description": "一个优雅的 \\LaTeX\\ 中文简历模板，改良自billryan/resume by @hijiangtao",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84383142,
+            "language": "TeX",
+            "last_commit": "2024-09-04T03:15:27Z",
+            "owner": "hijiangtao",
+            "repo": "resume",
+            "stars": 3532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "resume-ng",
+          "description": "一个旨在实现最佳的信息密度和美学吸引力的 $\\LaTeX$ 简历排版模板项目，by @fky2015",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 583923273,
+            "language": "TeX",
+            "last_commit": "2024-06-26T08:42:21Z",
+            "owner": "fky2015",
+            "repo": "resume-ng",
+            "stars": 855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "liweitianux/resume",
+          "description": "中英文简历 Latex 模板 by @liweitianux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129914968,
+            "language": "TeX",
+            "last_commit": "2025-08-03T03:00:32Z",
+            "owner": "liweitianux",
+            "repo": "resume",
+            "stars": 846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mszep/pandoc_resume",
+          "description": "The Markdown Resume by @mszep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21666181,
+            "language": "TeX",
+            "last_commit": "2024-02-28T17:35:05Z",
+            "owner": "mszep",
+            "repo": "pandoc_resume",
+            "stars": 1774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "luooofan/resume",
+          "description": "一个优雅的 \\LaTeX\\ 中文简历模板，改良自 billryan/resume by @luooofan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 860411071,
+            "language": "TeX",
+            "last_commit": "2024-09-22T07:51:51Z",
+            "owner": "luooofan",
+            "repo": "resume",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "horldsence/resume_template",
+          "description": "中文双栏简历 $\\LaTeX$ 模板 by @Horldsence",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1272504453,
+            "language": "TeX",
+            "last_commit": "2026-06-18T06:13:48Z",
+            "owner": "Horldsence",
+            "repo": "resume_template",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kodyyu1126/Chinese-resume-template-work",
+          "description": "中文求职简历 LaTeX 模板，适合展示教育背景、实习经历、项目经历、校园经历与荣誉技能，使用 XeLaTeX 编译 by @kodyyu1126",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1308776938,
+            "language": "TeX",
+            "last_commit": "2026-07-23T01:33:56Z",
+            "owner": "kody1126",
+            "repo": "Chinese-resume-template-work",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kodyyu1126/Chinese-resume-template-postgraduate",
+          "description": "中文考研复试简历 LaTeX 模板，适合展示报考信息、初试成绩与复试经历，使用 XeLaTeX 编译 by @kodyyu1126",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1308776957,
+            "language": "TeX",
+            "last_commit": "2026-07-23T01:34:38Z",
+            "owner": "kody1126",
+            "repo": "Chinese-resume-template-postgraduate",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "LaTeX"
+    },
+    {
+      "description": "PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是中文简历。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NewFuture/CV",
+          "description": "markdown在线简历生成模板 by @NewFuture",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83105939,
+            "language": "CSS",
+            "last_commit": "2019-06-29T03:44:42Z",
+            "owner": "NewFuture",
+            "repo": "CV",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ovilia/cv",
+          "description": "Wenli Zhang's CV as Web Front-End Engineer, by @Ovilia",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24701609,
+            "language": "HTML",
+            "last_commit": "2021-08-25T15:23:21Z",
+            "owner": "Ovilia",
+            "repo": "cv",
+            "stars": 631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orbit-Theme",
+          "description": "FREE Bootstrap 4 Resume/CV Template for Developers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50740480,
+            "language": "JavaScript",
+            "last_commit": "2024-09-18T15:16:28Z",
+            "owner": "xriley",
+            "repo": "Orbit-Theme",
+            "stars": 821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonresume-theme-mix",
+          "description": "IT信息运维工程师简历 by @hoochanlon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 207079804,
+            "language": "JavaScript",
+            "last_commit": "2026-04-14T10:52:35Z",
+            "owner": "hoochanlon",
+            "repo": "jsonresume-theme-mix",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ckjbug/resume",
+          "description": "软件开发工程师简历 by @ckjbug",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 181927386,
+            "language": null,
+            "last_commit": "2023-05-31T13:39:58Z",
+            "owner": "ckjbug",
+            "repo": "Resume",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crispgm/resume",
+          "description": "A minimalist resume template for Jekyll by @crispgm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61699964,
+            "language": "HTML",
+            "last_commit": "2021-08-11T05:52:31Z",
+            "owner": "crispgm",
+            "repo": "resume",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guanpengchn/markdown-resume",
+          "description": "支持markdown和富文本的在线简历排版工具 by @guanpengchn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 177586022,
+            "language": "JavaScript",
+            "last_commit": "2023-07-13T07:20:33Z",
+            "owner": "mdnice",
+            "repo": "markdown-resume",
+            "stars": 1969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lxxyx/LxxyxResume",
+          "description": "前端设计师求职简历模板 by @Lxxyx",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51919334,
+            "language": "SCSS",
+            "last_commit": "2026-08-06T22:06:25Z",
+            "owner": "Lxxyx",
+            "repo": "LxxyxResume",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcc108/resume",
+          "description": "前端开发工程师简历模板 by @mcc108",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55763405,
+            "language": "HTML",
+            "last_commit": "2026-08-02T01:31:52Z",
+            "owner": "cong-min",
+            "repo": "resume",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xiao555/resume-it",
+          "description": "web前端工程师求职模板 by @xiao555",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83006320,
+            "language": "HTML",
+            "last_commit": "2020-07-02T11:21:20Z",
+            "owner": "xiao555",
+            "repo": "resume-it",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zhaoky/flqin",
+          "description": "前端开发工程师网页简历 by @zhaoky",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54897826,
+            "language": "JavaScript",
+            "last_commit": "2024-09-16T13:09:59Z",
+            "owner": "zhaoky",
+            "repo": "flqin",
+            "stars": 418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yujiangshui/about-me",
+          "description": "个人网页型简历 by @yujiangshui",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17169107,
+            "language": "CSS",
+            "last_commit": "2019-02-19T00:47:31Z",
+            "owner": "yujiangshui",
+            "repo": "about-me",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nuterian/resume",
+          "description": "by @nuterian",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17379436,
+            "language": "HTML",
+            "last_commit": "2025-06-15T05:50:10Z",
+            "owner": "nuterian",
+            "repo": "resume",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "salomonelli/best-resume-ever",
+          "description": "适用于多个行业的简历模板选择器 by @salomonelli",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80472665,
+            "language": "Vue",
+            "last_commit": "2024-06-11T19:09:25Z",
+            "owner": "salomonelli",
+            "repo": "best-resume-ever",
+            "stars": 16473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CyC2018/Markdown-Resume",
+          "description": "⭐️ Markdown 简历模版, by @CyC2018",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 167393144,
+            "language": "HTML",
+            "last_commit": "2019-10-30T06:08:52Z",
+            "owner": "CyC2018",
+            "repo": "Markdown-Resume",
+            "stars": 3426
+          }
+        }
+      ],
+      "title": "HTML/JS"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:54:27.884Z",
+    "last_updated": "2026-08-24T13:51:32.919Z",
     "original_repository": "dyweb/awesome-resume-for-chinese",
     "original_repository_id": 127094946,
     "original_repository_sha": "fefc06e7dd667ff78bf7c5cccad715efddaef15f",

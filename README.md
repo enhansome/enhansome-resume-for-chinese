@@ -15,25 +15,25 @@
     <img src="https://raw.githubusercontent.com/dyweb/Deedy-Resume-for-Chinese/master/OpenFonts/sample-image.png" width="350">
 </div>
 
-* [cv\_resume](https://github.com/geekplux/cv_resume) ⭐ 535 | 🐛 3 | 🌐 TeX | 📅 2025-12-11 中文简历 Latex 模板。基于 ModernCV 模板，进行了中文字体支持和优化，by [@geekplux](https://github.com/geekplux)
+* [cv\_resume](https://github.com/geekplux/cv_resume) ⭐ 536 | 🐛 3 | 🌐 TeX | 📅 2025-12-11 中文简历 Latex 模板。基于 ModernCV 模板，进行了中文字体支持和优化，by [@geekplux](https://github.com/geekplux)
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/geekplux/cv_resume/master/template_cn_blue.png" width="350">
 </div>
 
-* [billryan/resume](https://github.com/billryan/resume) ⭐ 11,351 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 An elegant \LaTeX\ résumé template, by [@billryan](https://github.com/billryan)
+* [billryan/resume](https://github.com/billryan/resume) ⭐ 11,357 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 An elegant \LaTeX\ résumé template, by [@billryan](https://github.com/billryan)
 
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/1292567/62409353-3fecfc00-b608-11e9-8e83-84962912c956.png" width="350">
 </div>
 
-* [hijiangtao/resume](https://github.com/hijiangtao/resume) ⭐ 3,525 | 🐛 3 | 🌐 TeX | 📅 2024-09-04 一个优雅的 \LaTeX\ 中文简历模板，改良自[billryan/resume](https://github.com/billryan/resume) ⭐ 11,351 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 by [@hijiangtao](https://github.com/hijiangtao)
+* [hijiangtao/resume](https://github.com/hijiangtao/resume) ⭐ 3,532 | 🐛 3 | 🌐 TeX | 📅 2024-09-04 一个优雅的 \LaTeX\ 中文简历模板，改良自[billryan/resume](https://github.com/billryan/resume) ⭐ 11,357 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 by [@hijiangtao](https://github.com/hijiangtao)
 
 <div align="center">
 	<img src="https://i.postimg.cc/7hYTR1MT/hijiangtao.png" width="350">
 </div>
 
-* [resume-ng](https://github.com/fky2015/resume-ng) ⭐ 854 | 🐛 3 | 🌐 TeX | 📅 2024-06-26 一个旨在实现最佳的信息密度和美学吸引力的 $\LaTeX$ 简历排版模板项目，by [@fky2015](https://github.com/fky2015)
+* [resume-ng](https://github.com/fky2015/resume-ng) ⭐ 855 | 🐛 3 | 🌐 TeX | 📅 2024-06-26 一个旨在实现最佳的信息密度和美学吸引力的 $\LaTeX$ 简历排版模板项目，by [@fky2015](https://github.com/fky2015)
 
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/16451516/217149842-25769714-45b4-4e10-93c9-72ae2cc921c5.png" width="400">
@@ -45,13 +45,13 @@
 	<img src="https://i.postimg.cc/6QGmydsS/liweit.png" width="350">
 </div>
 
-* [mszep/pandoc\_resume](https://github.com/mszep/pandoc_resume) ⭐ 1,773 | 🐛 38 | 🌐 TeX | 📅 2024-02-28 The Markdown Resume by [@mszep](https://github.com/mszep)
+* [mszep/pandoc\_resume](https://github.com/mszep/pandoc_resume) ⭐ 1,774 | 🐛 38 | 🌐 TeX | 📅 2024-02-28 The Markdown Resume by [@mszep](https://github.com/mszep)
 
 <div align="center">
 	<img src="https://i.postimg.cc/mgmWW894/mszep.png" width="350">
 </div>
 
-* [luooofan/resume](https://github.com/luooofan/resume) ⭐ 194 | 🐛 1 | 🌐 TeX | 📅 2024-09-22 一个优雅的 \LaTeX\ 中文简历模板，改良自 [billryan/resume](https://github.com/billryan/resume) ⭐ 11,351 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 by [@luooofan](https://github.com/luooofan)
+* [luooofan/resume](https://github.com/luooofan/resume) ⭐ 194 | 🐛 1 | 🌐 TeX | 📅 2024-09-22 一个优雅的 \LaTeX\ 中文简历模板，改良自 [billryan/resume](https://github.com/billryan/resume) ⭐ 11,357 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 by [@luooofan](https://github.com/luooofan)
 
 <div align="center">
 	<img src="https://github.com/luooofan/resume/blob/zh_CN/images/resume_example.jpg?raw=true">
@@ -188,7 +188,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/W4XkcLNn/nzbin2.png" width="350">
 </div>
 
-* [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) ⭐ 3,424 | 🐛 10 | 🌐 HTML | 📅 2019-10-30 ⭐️ Markdown 简历模版, by [@CyC2018](https://github.com/CyC2018)
+* [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) ⭐ 3,426 | 🐛 10 | 🌐 HTML | 📅 2019-10-30 ⭐️ Markdown 简历模版, by [@CyC2018](https://github.com/CyC2018)
 
 <div align="center">
 	<img src="https://i.postimg.cc/fb9hQf4q/Resume.png" width="350">
