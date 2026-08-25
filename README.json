@@ -45,7 +45,7 @@
             "last_commit": "2024-03-15T08:48:48Z",
             "owner": "billryan",
             "repo": "resume",
-            "stars": 11359
+            "stars": 11360
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-06-26T08:42:21Z",
             "owner": "fky2015",
             "repo": "resume-ng",
-            "stars": 855
+            "stars": 856
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2023-07-13T07:20:33Z",
             "owner": "mdnice",
             "repo": "markdown-resume",
-            "stars": 1968
+            "stars": 1969
           }
         },
         {
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:49:58.515Z",
+    "last_updated": "2026-08-25T05:48:30.440Z",
     "original_repository": "dyweb/awesome-resume-for-chinese",
     "original_repository_id": 127094946,
     "original_repository_sha": "fefc06e7dd667ff78bf7c5cccad715efddaef15f",
