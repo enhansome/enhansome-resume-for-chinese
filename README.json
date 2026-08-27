@@ -30,7 +30,7 @@
             "last_commit": "2025-12-11T03:38:20Z",
             "owner": "geekplux",
             "repo": "cv_resume",
-            "stars": 538
+            "stars": 539
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-03-15T08:48:48Z",
             "owner": "billryan",
             "repo": "resume",
-            "stars": 11361
+            "stars": 11364
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-09-04T03:15:27Z",
             "owner": "hijiangtao",
             "repo": "resume",
-            "stars": 3535
+            "stars": 3546
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-06-26T08:42:21Z",
             "owner": "fky2015",
             "repo": "resume-ng",
-            "stars": 857
+            "stars": 859
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-08-03T03:00:32Z",
             "owner": "liweitianux",
             "repo": "resume",
-            "stars": 846
+            "stars": 847
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-07-23T01:33:56Z",
             "owner": "kody1126",
             "repo": "Chinese-resume-template-work",
-            "stars": 24
+            "stars": 26
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2024-06-11T19:09:25Z",
             "owner": "salomonelli",
             "repo": "best-resume-ever",
-            "stars": 16472
+            "stars": 16469
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2019-10-30T06:08:52Z",
             "owner": "CyC2018",
             "repo": "Markdown-Resume",
-            "stars": 3429
+            "stars": 3431
           }
         }
       ],
@@ -404,9 +404,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:56:01.881Z",
-    "original_repository": "dyweb/awesome-resume-for-chinese",
-    "original_repository_id": 127094946,
+    "last_updated": "2026-08-27T12:01:05.520Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 127094946,
+      "language": null,
+      "last_commit": "2026-07-22T14:48:43Z",
+      "owner": "dyweb",
+      "repo": "awesome-resume-for-chinese",
+      "stars": 8262
+    },
     "original_repository_sha": "fefc06e7dd667ff78bf7c5cccad715efddaef15f",
     "enhanced_repository": "enhansome/enhansome-resume-for-chinese",
     "enhanced_repository_description": null,
