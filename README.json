@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "适合应届毕业生的 LaTeX 简历模板",
+            "homepage": null,
             "id": 105121619,
             "language": "TeX",
+            "license": "Apache-2.0",
             "last_commit": "2017-10-07T09:07:46Z",
+            "open_issues": 2,
             "owner": "dyweb",
             "repo": "Deedy-Resume-for-Chinese",
-            "stars": 569
+            "stars": 569,
+            "topics": [
+              "latex-template",
+              "resume-template"
+            ]
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -26,12 +34,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A latex cv/resume template.",
+            "homepage": null,
             "id": 115707624,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2025-12-11T03:38:20Z",
+            "open_issues": 3,
             "owner": "geekplux",
             "repo": "cv_resume",
-            "stars": 540
+            "stars": 540,
+            "topics": [
+              "cv",
+              "cv-template",
+              "latex",
+              "latex-template",
+              "resume",
+              "resume-template",
+              "xelatex"
+            ]
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -42,12 +63,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An elegant \\LaTeX\\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git",
+            "homepage": null,
             "id": 36554772,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2024-03-15T08:48:48Z",
+            "open_issues": 49,
             "owner": "billryan",
             "repo": "resume",
-            "stars": 11368
+            "stars": 11370,
+            "topics": [
+              "latex",
+              "resume"
+            ]
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -58,12 +87,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "个人中文简历 Latex 源码 https://hijiangtao.github.io/",
+            "homepage": null,
             "id": 84383142,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2024-09-04T03:15:27Z",
+            "open_issues": 3,
             "owner": "hijiangtao",
             "repo": "resume",
-            "stars": 3553
+            "stars": 3553,
+            "topics": [
+              "latex",
+              "latex-template",
+              "resume",
+              "resume-template",
+              "sharelatex"
+            ]
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -74,12 +114,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A LaTeX resume template designed for optimal information density and aesthetic appeal.",
+            "homepage": null,
             "id": 583923273,
             "language": "TeX",
+            "license": "LPPL-1.3c",
             "last_commit": "2024-06-26T08:42:21Z",
+            "open_issues": 3,
             "owner": "fky2015",
             "repo": "resume-ng",
-            "stars": 860
+            "stars": 860,
+            "topics": [
+              "chinese",
+              "cv",
+              "english",
+              "latex",
+              "latex3",
+              "resume"
+            ]
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -90,12 +142,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My resume in LaTeX (template suited for new graduates; 应届生简历模板)",
+            "homepage": null,
             "id": 129914968,
             "language": "TeX",
+            "license": null,
             "last_commit": "2025-08-03T03:00:32Z",
+            "open_issues": 0,
             "owner": "liweitianux",
             "repo": "resume",
-            "stars": 846
+            "stars": 846,
+            "topics": [
+              "chinese",
+              "cv",
+              "font-awesome",
+              "latex",
+              "new-grad",
+              "resume",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -106,12 +171,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Markdown Resume",
+            "homepage": "http://mszep.github.io/pandoc_resume/",
             "id": 21666181,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2024-02-28T17:35:05Z",
+            "open_issues": 38,
             "owner": "mszep",
             "repo": "pandoc_resume",
-            "stars": 1775
+            "stars": 1775,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -122,12 +192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "新增支持 FontAwesome 6、修改了带图片的简历样式、支持了多种标题行样式等",
+            "homepage": null,
             "id": 860411071,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2024-09-22T07:51:51Z",
+            "open_issues": 1,
             "owner": "luooofan",
             "repo": "resume",
-            "stars": 194
+            "stars": 194,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -138,12 +213,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "简单的中文双列简历模板",
+            "homepage": null,
             "id": 1272504453,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2026-06-18T06:13:48Z",
+            "open_issues": 0,
             "owner": "Horldsence",
             "repo": "resume_template",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -154,12 +234,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "中文求职简历 LaTeX 模板",
+            "homepage": null,
             "id": 1308776938,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2026-07-23T01:33:56Z",
+            "open_issues": 0,
             "owner": "kody1126",
             "repo": "Chinese-resume-template-work",
-            "stars": 30
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -170,12 +255,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "中文考研复试简历 LaTeX 模板",
+            "homepage": null,
             "id": 1308776957,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2026-07-23T01:34:38Z",
+            "open_issues": 0,
             "owner": "kody1126",
             "repo": "Chinese-resume-template-postgraduate",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         }
@@ -192,12 +282,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A resume template written in Markdown,Yaml JSON auto generates github-pages website & PDF by Jekyll. 在线简历生成模板(超高兼容可导PDF)",
+            "homepage": "https://newfuture.github.io/CV/",
             "id": 83105939,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2019-06-29T03:44:42Z",
+            "open_issues": 2,
             "owner": "NewFuture",
             "repo": "CV",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "curriculum-vitae",
+              "cv",
+              "gh-pages",
+              "github-page",
+              "html",
+              "jekyll",
+              "markdown",
+              "resume",
+              "resume-template",
+              "resume-website"
+            ]
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -208,12 +314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wenli Zhang's CV as Web Front-End Engineer",
+            "homepage": "http://zhangwenli.com/cv",
             "id": 24701609,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2021-08-25T15:23:21Z",
+            "open_issues": 2,
             "owner": "Ovilia",
             "repo": "cv",
-            "stars": 631
+            "stars": 631,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -224,12 +335,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FREE Bootstrap 5 Resume/CV Template for Developers",
+            "homepage": "https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/",
             "id": 50740480,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-09-18T15:16:28Z",
+            "open_issues": 9,
             "owner": "xriley",
             "repo": "Orbit-Theme",
-            "stars": 821
+            "stars": 821,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -240,12 +356,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一份简致的个人简历主题展示 ",
+            "homepage": "https://hoochanlon.github.io/jsonresume-theme-mix",
             "id": 207079804,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-14T10:52:35Z",
+            "open_issues": 0,
             "owner": "hoochanlon",
             "repo": "jsonresume-theme-mix",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "jsonresume",
+              "resume"
+            ]
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -256,12 +380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "欢迎阅读我的简历，期待能有机会和您共事。",
+            "homepage": null,
             "id": 181927386,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-31T13:39:58Z",
+            "open_issues": 0,
             "owner": "ckjbug",
             "repo": "Resume",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -272,12 +401,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimalist resume template for Jekyll and Hexo",
+            "homepage": "https://crispgm.github.io/resume/resume.html",
             "id": 61699964,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2021-08-11T05:52:31Z",
+            "open_issues": 1,
             "owner": "crispgm",
             "repo": "resume",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "jekyll",
+              "jekyll-theme",
+              "jekyll-themes",
+              "minimalist-template",
+              "nord-theme",
+              "resume-creator",
+              "resume-template",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -288,12 +431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":necktie:支持 Markdown 和富文本的在线简历排版工具",
+            "homepage": "https://resume.mdnice.com/",
             "id": 177586022,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-07-13T07:20:33Z",
+            "open_issues": 54,
             "owner": "mdnice",
             "repo": "markdown-resume",
-            "stars": 1970
+            "stars": 1970,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -304,12 +452,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "前端简历生成器",
+            "homepage": "https://resume.lxxyx.cn",
             "id": 51919334,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2026-08-06T22:06:25Z",
+            "open_issues": 6,
             "owner": "Lxxyx",
             "repo": "LxxyxResume",
-            "stars": 234
+            "stars": 234,
+            "topics": [
+              "front-end",
+              "pdf",
+              "resume"
+            ]
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -320,12 +477,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📃 resume.congm.in",
+            "homepage": "http://resume.congm.in",
             "id": 55763405,
             "language": "HTML",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-02T01:31:52Z",
+            "open_issues": 1,
             "owner": "cong-min",
             "repo": "resume",
-            "stars": 241
+            "stars": 241,
+            "topics": [
+              "cv",
+              "resume"
+            ]
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -336,12 +501,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A resume generator",
+            "homepage": "https://xiao555.github.io/Resume/",
             "id": 83006320,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2020-07-02T11:21:20Z",
+            "open_issues": 0,
             "owner": "xiao555",
             "repo": "resume-it",
-            "stars": 234
+            "stars": 234,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -352,12 +522,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👻👻 web前端工程师简历",
+            "homepage": "https://www.flqin.com",
             "id": 54897826,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-16T13:09:59Z",
+            "open_issues": 0,
             "owner": "zhaoky",
             "repo": "flqin",
-            "stars": 418
+            "stars": 418,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -368,12 +543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "个人网页简历的源代码",
+            "homepage": "http://yujiangshui.github.io/about-me/",
             "id": 17169107,
             "language": "CSS",
+            "license": null,
             "last_commit": "2019-02-19T00:47:31Z",
+            "open_issues": 5,
             "owner": "yujiangshui",
             "repo": "about-me",
-            "stars": 262
+            "stars": 262,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -384,12 +564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "web/print",
+            "homepage": "https://nuterian.github.io/resume",
             "id": 17379436,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-06-15T05:50:10Z",
+            "open_issues": 1,
             "owner": "nuterian",
             "repo": "resume",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -400,12 +585,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.",
+            "homepage": "https://salomonelli.github.io/best-resume-ever",
             "id": 80472665,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2024-06-11T19:09:25Z",
+            "open_issues": 57,
             "owner": "salomonelli",
             "repo": "best-resume-ever",
-            "stars": 16471
+            "stars": 16471,
+            "topics": [
+              "cv",
+              "javascript",
+              "nodejs",
+              "pdf",
+              "resume",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         },
@@ -416,12 +613,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⭐️ Markdown 简历模版",
+            "homepage": null,
             "id": 167393144,
             "language": "HTML",
+            "license": null,
             "last_commit": "2019-10-30T06:08:52Z",
+            "open_issues": 10,
             "owner": "CyC2018",
             "repo": "Markdown-Resume",
-            "stars": 3432
+            "stars": 3432,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
         }
@@ -430,15 +632,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:30:39.277Z",
+    "last_updated": "2026-08-29T04:16:02.108Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护",
+      "homepage": null,
       "id": 127094946,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-22T14:48:43Z",
+      "open_issues": 3,
       "owner": "dyweb",
       "repo": "awesome-resume-for-chinese",
-      "stars": 8274
+      "stars": 8275,
+      "topics": [
+        "engineer",
+        "html",
+        "json",
+        "latex",
+        "resume"
+      ]
     },
     "original_repository_sha": "fefc06e7dd667ff78bf7c5cccad715efddaef15f",
     "enhanced_repository": "enhansome/enhansome-resume-for-chinese",
