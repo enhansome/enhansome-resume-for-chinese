@@ -72,7 +72,7 @@
             "open_issues": 49,
             "owner": "billryan",
             "repo": "resume",
-            "stars": 11378,
+            "stars": 11382,
             "topics": [
               "latex",
               "resume"
@@ -96,7 +96,7 @@
             "open_issues": 3,
             "owner": "hijiangtao",
             "repo": "resume",
-            "stars": 3558,
+            "stars": 3564,
             "topics": [
               "latex",
               "latex-template",
@@ -123,7 +123,7 @@
             "open_issues": 3,
             "owner": "fky2015",
             "repo": "resume-ng",
-            "stars": 861,
+            "stars": 863,
             "topics": [
               "chinese",
               "cv",
@@ -201,7 +201,7 @@
             "open_issues": 1,
             "owner": "luooofan",
             "repo": "resume",
-            "stars": 195,
+            "stars": 196,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
@@ -410,7 +410,7 @@
             "open_issues": 1,
             "owner": "crispgm",
             "repo": "resume",
-            "stars": 306,
+            "stars": 307,
             "topics": [
               "jekyll",
               "jekyll-theme",
@@ -567,9 +567,9 @@
             "description": "web/print",
             "homepage": "https://nuterian.github.io/resume",
             "id": 17379436,
-            "language": "HTML",
+            "language": "CSS",
             "license": null,
-            "last_commit": "2025-06-15T05:50:10Z",
+            "last_commit": "2026-08-31T09:23:22Z",
             "open_issues": 1,
             "owner": "nuterian",
             "repo": "resume",
@@ -622,7 +622,7 @@
             "open_issues": 10,
             "owner": "CyC2018",
             "repo": "Markdown-Resume",
-            "stars": 3435,
+            "stars": 3437,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
@@ -632,7 +632,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T07:51:24.998Z",
+    "last_updated": "2026-09-01T06:56:55.859Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护",
@@ -644,7 +644,7 @@
       "open_issues": 3,
       "owner": "dyweb",
       "repo": "awesome-resume-for-chinese",
-      "stars": 8286,
+      "stars": 8291,
       "topics": [
         "engineer",
         "html",
