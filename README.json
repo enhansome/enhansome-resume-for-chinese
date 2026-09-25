@@ -573,7 +573,7 @@
             "open_issues": 57,
             "owner": "salomonelli",
             "repo": "best-resume-ever",
-            "stars": 16482,
+            "stars": 16481,
             "topics": [
               "cv",
               "javascript",
@@ -611,7 +611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T06:54:36.253Z",
+    "last_updated": "2026-09-25T06:49:10.706Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护",
@@ -623,7 +623,7 @@
       "open_issues": 4,
       "owner": "dyweb",
       "repo": "awesome-resume-for-chinese",
-      "stars": 8476,
+      "stars": 8479,
       "topics": [
         "engineer",
         "html",
