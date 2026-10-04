@@ -27,7 +27,7 @@
 	<img src="https://user-images.githubusercontent.com/1292567/62409353-3fecfc00-b608-11e9-8e83-84962912c956.png" width="350">
 </div>
 
-* [hijiangtao/resume](https://github.com/hijiangtao/resume) ⭐ 3,655 | 🐛 3 | 🌐 TeX | 📅 2024-09-04 一个优雅的 \LaTeX\ 中文简历模板，改良自[billryan/resume](https://github.com/billryan/resume) ⭐ 11,466 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 by [@hijiangtao](https://github.com/hijiangtao)
+* [hijiangtao/resume](https://github.com/hijiangtao/resume) ⭐ 3,656 | 🐛 3 | 🌐 TeX | 📅 2024-09-04 一个优雅的 \LaTeX\ 中文简历模板，改良自[billryan/resume](https://github.com/billryan/resume) ⭐ 11,466 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 by [@hijiangtao](https://github.com/hijiangtao)
 
 <div align="center">
 	<img src="https://i.postimg.cc/7hYTR1MT/hijiangtao.png" width="350">
@@ -63,7 +63,7 @@
 	<img src="https://github.com/Horldsence/resume_template/raw/main/image/image.jpg?raw=true">
 </div>
 
-* [kodyyu1126/Chinese-resume-template-work](https://github.com/kodyyu1126/Chinese-resume-template-work) ⭐ 64 | 🐛 0 | 🌐 TeX | 📅 2026-09-09 中文求职简历 LaTeX 模板，适合展示教育背景、实习经历、项目经历、校园经历与荣誉技能，使用 XeLaTeX 编译 by [@kodyyu1126](https://github.com/kodyyu1126)
+* [kodyyu1126/Chinese-resume-template-work](https://github.com/kodyyu1126/Chinese-resume-template-work) ⭐ 65 | 🐛 0 | 🌐 TeX | 📅 2026-09-09 中文求职简历 LaTeX 模板，适合展示教育背景、实习经历、项目经历、校园经历与荣誉技能，使用 XeLaTeX 编译 by [@kodyyu1126](https://github.com/kodyyu1126)
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/kodyyu1126/Chinese-resume-template-work/main/assets/resume-preview.png" width="350">
@@ -196,7 +196,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 
 ## Typst
 
-* [OrangeX4/Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 975 | 🐛 3 | 🌐 Typst | 📅 2025-03-18 使用 Typst (一种比 LaTeX 更简单易学的排版标记语言) 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片, by [@OrangeX4](https://github.com/OrangeX4)
+* [OrangeX4/Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 974 | 🐛 3 | 🌐 Typst | 📅 2025-03-18 使用 Typst (一种比 LaTeX 更简单易学的排版标记语言) 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片, by [@OrangeX4](https://github.com/OrangeX4)
 
 <div align="center">
 	<img src="https://i.postimg.cc/YS1kJH4c/image.png" width="350">
@@ -205,4 +205,4 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
