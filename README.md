@@ -175,7 +175,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/bJz6YhfF/jugal.png" width="350">
 </div>
 
-* [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) ⭐ 16,483 | 🐛 57 | 🌐 Vue | 📅 2024-06-11 适用于多个行业的简历模板选择器 by [@salomonelli](https://github.com/salomonelli)
+* [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) ⭐ 16,484 | 🐛 57 | 🌐 Vue | 📅 2024-06-11 适用于多个行业的简历模板选择器 by [@salomonelli](https://github.com/salomonelli)
 
 <div align="center"> 
 	<img src="https://i.postimg.cc/qRxZT7tF/salomonelli.png"> 
@@ -196,7 +196,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 
 ## Typst
 
-* [OrangeX4/Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 974 | 🐛 3 | 🌐 Typst | 📅 2025-03-18 使用 Typst (一种比 LaTeX 更简单易学的排版标记语言) 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片, by [@OrangeX4](https://github.com/OrangeX4)
+* [OrangeX4/Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 973 | 🐛 3 | 🌐 Typst | 📅 2025-03-18 使用 Typst (一种比 LaTeX 更简单易学的排版标记语言) 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片, by [@OrangeX4](https://github.com/OrangeX4)
 
 <div align="center">
 	<img src="https://i.postimg.cc/YS1kJH4c/image.png" width="350">
