@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "dyweb",
             "repo": "Deedy-Resume-for-Chinese",
-            "stars": 570,
+            "stars": 569,
             "topics": [
               "latex-template",
               "resume-template"
@@ -43,7 +43,7 @@
             "open_issues": 3,
             "owner": "geekplux",
             "repo": "cv_resume",
-            "stars": 544,
+            "stars": 543,
             "topics": [
               "cv",
               "cv-template",
@@ -72,7 +72,7 @@
             "open_issues": 49,
             "owner": "billryan",
             "repo": "resume",
-            "stars": 11472,
+            "stars": 11473,
             "topics": [
               "latex",
               "resume"
@@ -96,7 +96,7 @@
             "open_issues": 3,
             "owner": "hijiangtao",
             "repo": "resume",
-            "stars": 3674,
+            "stars": 3673,
             "topics": [
               "latex",
               "latex-template",
@@ -123,7 +123,7 @@
             "open_issues": 3,
             "owner": "fky2015",
             "repo": "resume-ng",
-            "stars": 892,
+            "stars": 894,
             "topics": [
               "chinese",
               "cv",
@@ -151,7 +151,7 @@
             "open_issues": 0,
             "owner": "liweitianux",
             "repo": "resume",
-            "stars": 854,
+            "stars": 855,
             "topics": [
               "chinese",
               "cv",
@@ -573,7 +573,7 @@
             "open_issues": 57,
             "owner": "salomonelli",
             "repo": "best-resume-ever",
-            "stars": 16485,
+            "stars": 16486,
             "topics": [
               "cv",
               "javascript",
@@ -611,7 +611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T08:08:16.106Z",
+    "last_updated": "2026-10-10T07:52:57.432Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护",
@@ -620,10 +620,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-07-22T14:48:43Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "dyweb",
       "repo": "awesome-resume-for-chinese",
-      "stars": 8539,
+      "stars": 8555,
       "topics": [
         "engineer",
         "html",
