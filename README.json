@@ -72,7 +72,7 @@
             "open_issues": 49,
             "owner": "billryan",
             "repo": "resume",
-            "stars": 11549,
+            "stars": 11550,
             "topics": [
               "latex",
               "resume"
@@ -96,7 +96,7 @@
             "open_issues": 3,
             "owner": "hijiangtao",
             "repo": "resume",
-            "stars": 3742,
+            "stars": 3744,
             "topics": [
               "latex",
               "latex-template",
@@ -151,7 +151,7 @@
             "open_issues": 0,
             "owner": "liweitianux",
             "repo": "resume",
-            "stars": 859,
+            "stars": 860,
             "topics": [
               "chinese",
               "cv",
@@ -222,7 +222,7 @@
             "open_issues": 0,
             "owner": "kody1126",
             "repo": "Chinese-resume-template-work",
-            "stars": 84,
+            "stars": 85,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
@@ -323,7 +323,7 @@
             "open_issues": 9,
             "owner": "xriley",
             "repo": "Orbit-Theme",
-            "stars": 821,
+            "stars": 820,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
@@ -573,7 +573,7 @@
             "open_issues": 57,
             "owner": "salomonelli",
             "repo": "best-resume-ever",
-            "stars": 16489,
+            "stars": 16492,
             "topics": [
               "cv",
               "javascript",
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T08:47:47.332Z",
+    "last_updated": "2026-11-04T08:16:51.440Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护",
@@ -602,7 +602,7 @@
       "open_issues": 7,
       "owner": "dyweb",
       "repo": "awesome-resume-for-chinese",
-      "stars": 8709,
+      "stars": 8717,
       "topics": [
         "engineer",
         "html",
