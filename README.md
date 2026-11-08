@@ -21,13 +21,13 @@
 	<img src="https://raw.githubusercontent.com/geekplux/cv_resume/master/template_cn_blue.png" width="350">
 </div>
 
-* [billryan/resume](https://github.com/billryan/resume) ⭐ 11,549 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 An elegant \LaTeX\ résumé template, by [@billryan](https://github.com/billryan)
+* [billryan/resume](https://github.com/billryan/resume) ⭐ 11,550 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 An elegant \LaTeX\ résumé template, by [@billryan](https://github.com/billryan)
 
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/1292567/62409353-3fecfc00-b608-11e9-8e83-84962912c956.png" width="350">
 </div>
 
-* [hijiangtao/resume](https://github.com/hijiangtao/resume) ⭐ 3,747 | 🐛 3 | 🌐 TeX | 📅 2024-09-04 一个优雅的 \LaTeX\ 中文简历模板，改良自[billryan/resume](https://github.com/billryan/resume) ⭐ 11,549 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 by [@hijiangtao](https://github.com/hijiangtao)
+* [hijiangtao/resume](https://github.com/hijiangtao/resume) ⭐ 3,747 | 🐛 3 | 🌐 TeX | 📅 2024-09-04 一个优雅的 \LaTeX\ 中文简历模板，改良自[billryan/resume](https://github.com/billryan/resume) ⭐ 11,550 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 by [@hijiangtao](https://github.com/hijiangtao)
 
 <div align="center">
 	<img src="https://i.postimg.cc/7hYTR1MT/hijiangtao.png" width="350">
@@ -39,7 +39,7 @@
 	<img src="https://user-images.githubusercontent.com/16451516/217149842-25769714-45b4-4e10-93c9-72ae2cc921c5.png" width="400">
 </div>
 
-* [liweitianux/resume](https://github.com/liweitianux/resume) ⭐ 859 | 🐛 0 | 🌐 TeX | 📅 2025-08-03 中英文简历 Latex 模板 by [@liweitianux](https://github.com/liweitianux)
+* [liweitianux/resume](https://github.com/liweitianux/resume) ⭐ 860 | 🐛 0 | 🌐 TeX | 📅 2025-08-03 中英文简历 Latex 模板 by [@liweitianux](https://github.com/liweitianux)
 
 <div align="center">
 	<img src="https://i.postimg.cc/6QGmydsS/liweit.png" width="350">
@@ -51,7 +51,7 @@
 	<img src="https://i.postimg.cc/mgmWW894/mszep.png" width="350">
 </div>
 
-* [luooofan/resume](https://github.com/luooofan/resume) ⭐ 211 | 🐛 1 | 🌐 TeX | 📅 2024-09-22 一个优雅的 \LaTeX\ 中文简历模板，改良自 [billryan/resume](https://github.com/billryan/resume) ⭐ 11,549 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 by [@luooofan](https://github.com/luooofan)
+* [luooofan/resume](https://github.com/luooofan/resume) ⭐ 211 | 🐛 1 | 🌐 TeX | 📅 2024-09-22 一个优雅的 \LaTeX\ 中文简历模板，改良自 [billryan/resume](https://github.com/billryan/resume) ⭐ 11,550 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 by [@luooofan](https://github.com/luooofan)
 
 <div align="center">
 	<img src="https://github.com/luooofan/resume/blob/zh_CN/images/resume_example.jpg?raw=true">
@@ -205,4 +205,4 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
