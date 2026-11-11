@@ -72,7 +72,7 @@
             "open_issues": 49,
             "owner": "billryan",
             "repo": "resume",
-            "stars": 11555,
+            "stars": 11558,
             "topics": [
               "latex",
               "resume"
@@ -96,7 +96,7 @@
             "open_issues": 3,
             "owner": "hijiangtao",
             "repo": "resume",
-            "stars": 3748,
+            "stars": 3752,
             "topics": [
               "latex",
               "latex-template",
@@ -123,7 +123,7 @@
             "open_issues": 3,
             "owner": "fky2015",
             "repo": "resume-ng",
-            "stars": 907,
+            "stars": 909,
             "topics": [
               "chinese",
               "cv",
@@ -151,7 +151,7 @@
             "open_issues": 0,
             "owner": "liweitianux",
             "repo": "resume",
-            "stars": 862,
+            "stars": 863,
             "topics": [
               "chinese",
               "cv",
@@ -201,7 +201,7 @@
             "open_issues": 1,
             "owner": "luooofan",
             "repo": "resume",
-            "stars": 211,
+            "stars": 212,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
@@ -573,7 +573,7 @@
             "open_issues": 57,
             "owner": "salomonelli",
             "repo": "best-resume-ever",
-            "stars": 16489,
+            "stars": 16491,
             "topics": [
               "cv",
               "javascript",
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:55:44.413Z",
+    "last_updated": "2026-11-11T08:36:20.113Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护",
@@ -602,7 +602,7 @@
       "open_issues": 8,
       "owner": "dyweb",
       "repo": "awesome-resume-for-chinese",
-      "stars": 8732,
+      "stars": 8739,
       "topics": [
         "engineer",
         "html",
