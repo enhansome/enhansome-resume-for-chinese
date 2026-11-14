@@ -8,7 +8,7 @@
 
 ## LaTeX
 
-* [dyweb/Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese) ⭐ 573 | 🐛 2 | 🌐 TeX | 📅 2017-10-07 适合应届毕业生的 LaTeX 简历模板，by [@dyweb](https://github.com/dyweb)
+* [dyweb/Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese) ⭐ 572 | 🐛 2 | 🌐 TeX | 📅 2017-10-07 适合应届毕业生的 LaTeX 简历模板，by [@dyweb](https://github.com/dyweb)
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/dyweb/Deedy-Resume-for-Chinese/master/OpenFonts.Chinese/sample-image.png" width="350">
@@ -21,13 +21,13 @@
 	<img src="https://raw.githubusercontent.com/geekplux/cv_resume/master/template_cn_blue.png" width="350">
 </div>
 
-* [billryan/resume](https://github.com/billryan/resume) ⭐ 11,563 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 An elegant \LaTeX\ résumé template, by [@billryan](https://github.com/billryan)
+* [billryan/resume](https://github.com/billryan/resume) ⭐ 11,564 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 An elegant \LaTeX\ résumé template, by [@billryan](https://github.com/billryan)
 
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/1292567/62409353-3fecfc00-b608-11e9-8e83-84962912c956.png" width="350">
 </div>
 
-* [hijiangtao/resume](https://github.com/hijiangtao/resume) ⭐ 3,754 | 🐛 3 | 🌐 TeX | 📅 2024-09-04 一个优雅的 \LaTeX\ 中文简历模板，改良自[billryan/resume](https://github.com/billryan/resume) ⭐ 11,563 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 by [@hijiangtao](https://github.com/hijiangtao)
+* [hijiangtao/resume](https://github.com/hijiangtao/resume) ⭐ 3,755 | 🐛 3 | 🌐 TeX | 📅 2024-09-04 一个优雅的 \LaTeX\ 中文简历模板，改良自[billryan/resume](https://github.com/billryan/resume) ⭐ 11,564 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 by [@hijiangtao](https://github.com/hijiangtao)
 
 <div align="center">
 	<img src="https://i.postimg.cc/7hYTR1MT/hijiangtao.png" width="350">
@@ -51,7 +51,7 @@
 	<img src="https://i.postimg.cc/mgmWW894/mszep.png" width="350">
 </div>
 
-* [luooofan/resume](https://github.com/luooofan/resume) ⭐ 213 | 🐛 1 | 🌐 TeX | 📅 2024-09-22 一个优雅的 \LaTeX\ 中文简历模板，改良自 [billryan/resume](https://github.com/billryan/resume) ⭐ 11,563 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 by [@luooofan](https://github.com/luooofan)
+* [luooofan/resume](https://github.com/luooofan/resume) ⭐ 214 | 🐛 1 | 🌐 TeX | 📅 2024-09-22 一个优雅的 \LaTeX\ 中文简历模板，改良自 [billryan/resume](https://github.com/billryan/resume) ⭐ 11,564 | 🐛 49 | 🌐 TeX | 📅 2024-03-15 by [@luooofan](https://github.com/luooofan)
 
 <div align="center">
 	<img src="https://github.com/luooofan/resume/blob/zh_CN/images/resume_example.jpg?raw=true">
@@ -63,7 +63,7 @@
 	<img src="https://github.com/Horldsence/resume_template/raw/main/image/image.jpg?raw=true">
 </div>
 
-* [kodyyu1126/Chinese-resume-template-work](https://github.com/kodyyu1126/Chinese-resume-template-work) ⭐ 88 | 🐛 0 | 🌐 TeX | 📅 2026-09-09 中文求职简历 LaTeX 模板，适合展示教育背景、实习经历、项目经历、校园经历与荣誉技能，使用 XeLaTeX 编译 by [@kodyyu1126](https://github.com/kodyyu1126)
+* [kodyyu1126/Chinese-resume-template-work](https://github.com/kodyyu1126/Chinese-resume-template-work) ⭐ 89 | 🐛 0 | 🌐 TeX | 📅 2026-09-09 中文求职简历 LaTeX 模板，适合展示教育背景、实习经历、项目经历、校园经历与荣誉技能，使用 XeLaTeX 编译 by [@kodyyu1126](https://github.com/kodyyu1126)
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/kodyyu1126/Chinese-resume-template-work/main/assets/resume-preview.png" width="350">
@@ -175,7 +175,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/bJz6YhfF/jugal.png" width="350">
 </div>
 
-* [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) ⭐ 16,490 | 🐛 57 | 🌐 Vue | 📅 2024-06-11 适用于多个行业的简历模板选择器 by [@salomonelli](https://github.com/salomonelli)
+* [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) ⭐ 16,489 | 🐛 57 | 🌐 Vue | 📅 2024-06-11 适用于多个行业的简历模板选择器 by [@salomonelli](https://github.com/salomonelli)
 
 <div align="center"> 
 	<img src="https://i.postimg.cc/qRxZT7tF/salomonelli.png"> 
@@ -205,4 +205,4 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
