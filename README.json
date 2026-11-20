@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "dyweb",
             "repo": "Deedy-Resume-for-Chinese",
-            "stars": 573,
+            "stars": 574,
             "topics": [
               "latex-template",
               "resume-template"
@@ -72,7 +72,7 @@
             "open_issues": 50,
             "owner": "billryan",
             "repo": "resume",
-            "stars": 11576,
+            "stars": 11577,
             "topics": [
               "latex",
               "resume"
@@ -96,7 +96,7 @@
             "open_issues": 3,
             "owner": "hijiangtao",
             "repo": "resume",
-            "stars": 3766,
+            "stars": 3767,
             "topics": [
               "latex",
               "latex-template",
@@ -123,7 +123,7 @@
             "open_issues": 3,
             "owner": "fky2015",
             "repo": "resume-ng",
-            "stars": 915,
+            "stars": 916,
             "topics": [
               "chinese",
               "cv",
@@ -222,7 +222,7 @@
             "open_issues": 0,
             "owner": "kody1126",
             "repo": "Chinese-resume-template-work",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:39.277Z"
@@ -573,7 +573,7 @@
             "open_issues": 57,
             "owner": "salomonelli",
             "repo": "best-resume-ever",
-            "stars": 16492,
+            "stars": 16491,
             "topics": [
               "cv",
               "javascript",
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T09:38:06.021Z",
+    "last_updated": "2026-11-20T09:22:50.689Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护",
@@ -602,7 +602,7 @@
       "open_issues": 8,
       "owner": "dyweb",
       "repo": "awesome-resume-for-chinese",
-      "stars": 8776,
+      "stars": 8777,
       "topics": [
         "engineer",
         "html",
