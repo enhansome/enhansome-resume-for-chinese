@@ -72,7 +72,7 @@
             "open_issues": 50,
             "owner": "billryan",
             "repo": "resume",
-            "stars": 11577,
+            "stars": 11579,
             "topics": [
               "latex",
               "resume"
@@ -96,7 +96,7 @@
             "open_issues": 3,
             "owner": "hijiangtao",
             "repo": "resume",
-            "stars": 3767,
+            "stars": 3768,
             "topics": [
               "latex",
               "latex-template",
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T09:22:50.689Z",
+    "last_updated": "2026-11-21T08:57:06.466Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护",
@@ -602,7 +602,7 @@
       "open_issues": 8,
       "owner": "dyweb",
       "repo": "awesome-resume-for-chinese",
-      "stars": 8777,
+      "stars": 8780,
       "topics": [
         "engineer",
         "html",
