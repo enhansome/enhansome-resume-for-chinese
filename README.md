@@ -8,7 +8,7 @@
 
 ## LaTeX
 
-* [dyweb/Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese) ⭐ 574 | 🐛 2 | 🌐 TeX | 📅 2017-10-07 适合应届毕业生的 LaTeX 简历模板，by [@dyweb](https://github.com/dyweb)
+* [dyweb/Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese) ⭐ 575 | 🐛 2 | 🌐 TeX | 📅 2017-10-07 适合应届毕业生的 LaTeX 简历模板，by [@dyweb](https://github.com/dyweb)
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/dyweb/Deedy-Resume-for-Chinese/master/OpenFonts.Chinese/sample-image.png" width="350">
@@ -21,13 +21,13 @@
 	<img src="https://raw.githubusercontent.com/geekplux/cv_resume/master/template_cn_blue.png" width="350">
 </div>
 
-* [billryan/resume](https://github.com/billryan/resume) ⭐ 11,583 | 🐛 50 | 🌐 TeX | 📅 2024-03-15 An elegant \LaTeX\ résumé template, by [@billryan](https://github.com/billryan)
+* [billryan/resume](https://github.com/billryan/resume) ⭐ 11,585 | 🐛 50 | 🌐 TeX | 📅 2024-03-15 An elegant \LaTeX\ résumé template, by [@billryan](https://github.com/billryan)
 
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/1292567/62409353-3fecfc00-b608-11e9-8e83-84962912c956.png" width="350">
 </div>
 
-* [hijiangtao/resume](https://github.com/hijiangtao/resume) ⭐ 3,772 | 🐛 3 | 🌐 TeX | 📅 2024-09-04 一个优雅的 \LaTeX\ 中文简历模板，改良自[billryan/resume](https://github.com/billryan/resume) ⭐ 11,583 | 🐛 50 | 🌐 TeX | 📅 2024-03-15 by [@hijiangtao](https://github.com/hijiangtao)
+* [hijiangtao/resume](https://github.com/hijiangtao/resume) ⭐ 3,773 | 🐛 3 | 🌐 TeX | 📅 2024-09-04 一个优雅的 \LaTeX\ 中文简历模板，改良自[billryan/resume](https://github.com/billryan/resume) ⭐ 11,585 | 🐛 50 | 🌐 TeX | 📅 2024-03-15 by [@hijiangtao](https://github.com/hijiangtao)
 
 <div align="center">
 	<img src="https://i.postimg.cc/7hYTR1MT/hijiangtao.png" width="350">
@@ -51,7 +51,7 @@
 	<img src="https://i.postimg.cc/mgmWW894/mszep.png" width="350">
 </div>
 
-* [luooofan/resume](https://github.com/luooofan/resume) ⭐ 215 | 🐛 1 | 🌐 TeX | 📅 2024-09-22 一个优雅的 \LaTeX\ 中文简历模板，改良自 [billryan/resume](https://github.com/billryan/resume) ⭐ 11,583 | 🐛 50 | 🌐 TeX | 📅 2024-03-15 by [@luooofan](https://github.com/luooofan)
+* [luooofan/resume](https://github.com/luooofan/resume) ⭐ 215 | 🐛 1 | 🌐 TeX | 📅 2024-09-22 一个优雅的 \LaTeX\ 中文简历模板，改良自 [billryan/resume](https://github.com/billryan/resume) ⭐ 11,585 | 🐛 50 | 🌐 TeX | 📅 2024-03-15 by [@luooofan](https://github.com/luooofan)
 
 <div align="center">
 	<img src="https://github.com/luooofan/resume/blob/zh_CN/images/resume_example.jpg?raw=true">
@@ -157,7 +157,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/tRmYzNJs/zhaoky.png" width="450"> 
 </div>
 
-* [yujiangshui/about-me](https://github.com/yujiangshui/about-me) ⭐ 265 | 🐛 5 | 🌐 CSS | 📅 2019-02-19 个人网页型简历 by [@yujiangshui](https://github.com/yujiangshui)
+* [yujiangshui/about-me](https://github.com/yujiangshui/about-me) ⭐ 266 | 🐛 5 | 🌐 CSS | 📅 2019-02-19 个人网页型简历 by [@yujiangshui](https://github.com/yujiangshui)
 
 <div align="center"> 
 	<img src="https://i.postimg.cc/MpJZsPSp/yujiangshui.png" width="450"> 
@@ -175,7 +175,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 	<img src="https://i.postimg.cc/bJz6YhfF/jugal.png" width="350">
 </div>
 
-* [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) ⭐ 16,491 | 🐛 57 | 🌐 Vue | 📅 2024-06-11 适用于多个行业的简历模板选择器 by [@salomonelli](https://github.com/salomonelli)
+* [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) ⭐ 16,489 | 🐛 57 | 🌐 Vue | 📅 2024-06-11 适用于多个行业的简历模板选择器 by [@salomonelli](https://github.com/salomonelli)
 
 <div align="center"> 
 	<img src="https://i.postimg.cc/qRxZT7tF/salomonelli.png"> 
@@ -196,7 +196,7 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 
 ## Typst
 
-* [OrangeX4/Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 988 | 🐛 3 | 🌐 Typst | 📅 2025-03-18 使用 Typst (一种比 LaTeX 更简单易学的排版标记语言) 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片, by [@OrangeX4](https://github.com/OrangeX4)
+* [OrangeX4/Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 989 | 🐛 3 | 🌐 Typst | 📅 2025-03-18 使用 Typst (一种比 LaTeX 更简单易学的排版标记语言) 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片, by [@OrangeX4](https://github.com/OrangeX4)
 
 <div align="center">
 	<img src="https://i.postimg.cc/YS1kJH4c/image.png" width="350">
@@ -205,4 +205,4 @@ PS: 大部分 HTML/JS 的中文支持都不是问题，因此截图并不全是�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
